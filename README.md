@@ -5,6 +5,8 @@ Inspired by the fantastic work that David Bushell did on Shiro. http://dbushell.
 
 Pillars Grid is a Responsive CSS Grid system that is loosely based on natural divisions of a container/window. 
 
+Please note: Currently working out the kinks, there are alot of cases where the grid will break- or loose ends (like the rounding issues)
+
 For four columns do:
 
         <div class="four columns">
