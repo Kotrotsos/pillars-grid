@@ -1,8 +1,7 @@
 Pillars Grid 
 ============
-Inspired by the fantastic work that David Bushell http://dbushell.com/ did on Shiro http://dbushell.com/shiro/
-===========
 
+Inspired by the fantastic work that David Bushell did on Shiro. http://dbushell.com/ | http://dbushell.com/shiro/
 
 Pillars Grid is a Responsive CSS Grid system that is loosely based on natural divisions of a container/window. 
 
