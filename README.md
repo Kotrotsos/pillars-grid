@@ -1,4 +1,3 @@
-
 Pillars Grid 
 ============
 Inspired by the fantastic work that David Bushell http://dbushell.com/ did on Shiro http://dbushell.com/shiro/
@@ -43,7 +42,7 @@ Etc.
 Breakpoints uses natural divisions as well. The current big issue with this is that it is hard to divide something cleanly 
 in thirds for instance (1/3 or 33.33333%) There will alway's be a remainder. 
 
-For a customized column layout. You can also use the more commonplace one-of-three type of notation.
+However- for a customized column layout. You can also use the more commonplace one-of-three type of notation.
 
         <div class="row">
             <div class="col one-of-three">
@@ -53,6 +52,17 @@ For a customized column layout. You can also use the more commonplace one-of-thr
                 ...
             </div>
             <div class="col one-of-three">
+                ...
+            </div>
+        </div>
+        
+Or
+
+        <div class="row">
+            <div class="col one-of-three">
+                ...
+            </div>
+            <div class="col two-of-three">
                 ...
             </div>
         </div>
