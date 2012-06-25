@@ -70,13 +70,7 @@ Or
             </div>
         </div>
 
-You can use both 
-
-        <div class="col one-of-three">
-    
-Or the more verbose
-
-        <div class="column one-of-three">
+You can use both  `<div class="col one-of-three">` Or the more verbose `<div class="column one-of-three">`
     
 It works the same.
 
